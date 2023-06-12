@@ -18,7 +18,7 @@
 
 */
 
-package tosi
+package github.com/danielePala/tosi
 
 import (
 	"bytes"
