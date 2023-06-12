@@ -1,3 +1,3 @@
-module github.com/danielePala/tosi
+module github.com/GenxwaMbele/tosi/
 
 go 1.15
