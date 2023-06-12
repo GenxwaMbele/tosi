@@ -21,7 +21,7 @@
 
 */
 
-package github.com/danielePala/tosi
+package github.com/GenxwaMbele/tosi
 
 import (
 	"bytes"
